@@ -1,0 +1,13 @@
+argparse
+requests
+concurrent-log-handler
+dnspython
+jsbeautifier
+beautifulsoup4
+Flask
+tqdm
+selenium
+webdriver-manager
+apscheduler
+google-cloud-storage
+websockets
