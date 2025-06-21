@@ -95,12 +95,6 @@ python scan_web_valn.py --target http://example.com --proxy http://127.0.0.1:808
 
 ---
 
-## 📁 Report Preview (HTML)
-
-![HTML Report](https://yourdomain.com/report-screenshot.png)  
-> *Replace the link with your actual screenshot path*
-
----
 
 ## 📜 Legal Disclaimer
 
